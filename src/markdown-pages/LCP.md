@@ -4,9 +4,9 @@ date: "2020-11-02"
 title: "LCP 最大內容繪製"
 ---
 
-# LCP (Largeset Contentful Paint)
+Largeset Contentful Paint (LCP) 最大內容繪製。
 
-最大內容繪製，版面上最有代表性、面積最大的區塊，通常是封面圖，當他繪製完成的時候就是 LCP。
+版面上最有代表性、面積最大的區塊，通常是封面圖，當它繪製完成的時候就是 LCP。
 
 如何讓首圖更快載入就是 LCP 的重點。
 

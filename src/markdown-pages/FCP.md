@@ -4,9 +4,9 @@ date: "2020-11-02"
 title: "FCP 最初內容繪製"
 ---
 
-# FCP
+First Contentful Paint (FCP) 最初內容繪製。
 
-FCP (First Contentful Paint) 最重要的就是如何減少 blocking resource
+要優化 FCP 最重要的就是如何減少 blocking resource。
 
 ## Blocking resource
 

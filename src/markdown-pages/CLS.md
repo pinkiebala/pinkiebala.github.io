@@ -1,11 +1,10 @@
 ---
 slug: "/posts/CLS"
 date: "2020-11-02"
-title: "CLS 累積版面位移"
+title: "CLS 累進版面位移"
 ---
 
-
-# Cumulative Layout Shift (CLS)
+Cumulative Layout Shift (CLS)累進版面位移。
 
 不預期的版面位移會讓使用體驗很糟，想像你正在看一段文字，這時網頁突然長出一張大圖或是廣告，害你不知道剛剛的文字跳到哪裡，感覺很糟對吧？
 
