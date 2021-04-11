@@ -1,7 +1,9 @@
 ---
-slug: "/posts/LCP"
+slug: "LCP"
 date: "2020-11-02"
 title: "LCP 最大內容繪製"
+tags:
+  - web-vital
 ---
 
 Largeset Contentful Paint (LCP) 最大內容繪製。

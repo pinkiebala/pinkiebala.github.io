@@ -1,7 +1,9 @@
 ---
-slug: "/posts/CLS"
+slug: "CLS"
 date: "2020-11-02"
 title: "CLS 累進版面位移"
+tags:
+  - web-vital
 ---
 
 Cumulative Layout Shift (CLS)累進版面位移。

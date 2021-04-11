@@ -1,7 +1,9 @@
 ---
-slug: "/posts/FID"
+slug: "FID"
 date: "2020-11-02"
 title: "FID 首次輸入延遲"
+tags:
+  - web-vital
 ---
 
 ## TTI, TBT

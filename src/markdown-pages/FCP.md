@@ -1,7 +1,9 @@
 ---
-slug: "/posts/FCP"
+slug: "FCP"
 date: "2020-11-02"
 title: "FCP 最初內容繪製"
+tags:
+  - web-vital
 ---
 
 First Contentful Paint (FCP) 最初內容繪製。

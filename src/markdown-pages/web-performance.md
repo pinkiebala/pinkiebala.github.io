@@ -1,7 +1,9 @@
 ---
-slug: "/posts/web-performance"
+slug: "web-performance"
 date: "2020-11-02"
 title: "網頁效能指標"
+tags:
+  - web-vital
 ---
 
 # 網頁效能指標
