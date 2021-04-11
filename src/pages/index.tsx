@@ -29,7 +29,13 @@ const IndexPage = ({
               frontmatter: { slug, title, date },
             },
           }) => (
-            <PostCard slug={slug} title={title} excerpt={excerpt} date={date} />
+            <PostCard
+              key={slug}
+              slug={slug}
+              title={title}
+              excerpt={excerpt}
+              date={date}
+            />
           )
         )}
       </ul>
